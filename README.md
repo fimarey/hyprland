@@ -1,5 +1,5 @@
 # Hyprland-en-arch-linux
-en este repositorio habra una breve explicacion de como ponerte hyprland en bspwm
+en este repositorio habra una breve explicacion de como ponerte hyprland en arch linux
 
 Para ponerte hyprland en arch linux sigue estos pasos:
   
