@@ -23,9 +23,10 @@ https://www.youtube.com/watch?v=F-4_U0G6Ha0
 
 2.1: pacman -S --needed base-devel git ( si te sale algo como que ya lo tienes, no hay problema)
 
-2.2: git clone --depth 1 https://github.com/prasanthrangan/hyprdots ~/HyDE (si tienes problemas con el ~ puedes poner /home/(aqui_pones_tu_usuario)/HyDE)
+!!CLONARLO EN EL DIRECTORIO HOME!!
+2.2: git clone --depth 1 https://github.com/Hyde-project/hyde 
 
-2.3: cd ~/HyDE/Scripts (o tambien cd /home/(tu_usuario)/HyDE/Scripts)
+2.3: cd hyde/Scripts
 
 2.4: ./install.sh
 
