@@ -9,7 +9,9 @@ https://www.youtube.com/watch?v=2rh4Ik4WQZA
 
 !SIGUE LOS PASOS HASTA LA PARTE DONDE SE VA A PONER INTERFAZ, CUANDO SE VAYA A CONFIGURAR LA INTERFAZ HASTA AHI DEBES PARAR!
 
+o si vas a hacerlo en maquina virtual
 
+https://www.youtube.com/watch?v=F-4_U0G6Ha0
 
 
 
