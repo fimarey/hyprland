@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=F-4_U0G6Ha0
 2.1: pacman -S --needed base-devel git ( si te sale algo como que ya lo tienes, no hay problema)
 
 !!CLONARLO EN EL DIRECTORIO HOME!!
+
 2.2: git clone --depth 1 https://github.com/Hyde-project/hyde 
 
 2.3: cd hyde/Scripts
