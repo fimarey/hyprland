@@ -25,9 +25,9 @@ https://www.youtube.com/watch?v=F-4_U0G6Ha0
 
 !!CLONARLO EN EL DIRECTORIO HOME!!
 
-2.2: git clone --depth 1 https://github.com/Hyde-project/hyde 
+2.2: git clone --depth 1 https://github.com/HyDE-Project/HyDE ~/HyDE
 
-2.3: cd hyde/Scripts
+2.3: cd ~/HyDE/Scripts
 
 2.4: ./install.sh
 
