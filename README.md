@@ -31,4 +31,6 @@ https://www.youtube.com/watch?v=F-4_U0G6Ha0
 
 2.4: ./install.sh
 
+2.5: una vez en el panel de login, debes reiniciar
+
 Y listo tendrias hyprland en tu arch linux
