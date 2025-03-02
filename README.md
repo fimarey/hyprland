@@ -27,9 +27,9 @@ al tener todo instalado y salir del live usb les recomiendo conectarse a interne
 
 !!CLONARLO EN EL DIRECTORIO HOME!!
 
-2.2: git clone --depth 1 https://github.com/HyDE-Project/HyDE ~/HyDE
+2.2: git clone --depth 1 https://github.com/HyDE-Project/hyde ~/HyDE (o en vez de ~/HyDE pon /home/(aqui pones tu usuario)/HyDE)
 
-2.3: cd ~/HyDE/Scripts
+2.3: cd ~/HyDE/Scripts (o cd /home/(aqui pones tu usuario)/HyDE)
 
 2.4: ./install.sh
 
