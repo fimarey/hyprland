@@ -15,7 +15,9 @@ https://www.youtube.com/watch?v=F-4_U0G6Ha0
 
 
 
+Recomendaciones:
 
+al tener todo instalado y salir del live usb les recomiendo conectarse a internet por medio de networkmanager, ya que el script usa networkmanger y si usas iwd te dara error
 
 !ESTO ↓ LO DEBES DE EJECUTAR COMO USUARIO NORMAL , AL EJECUTAR EL install.sh TE PEDIRA CONTRASEÑA Y SI ESTA BIEN PERO NO LO EJECUTES COMO ROOT!
 
